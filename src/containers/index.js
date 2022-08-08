@@ -1,0 +1,9 @@
+export { default as Nav } from "./nav/Nav";
+export { default as Header } from "./header/Header";
+export { default as Brand } from "./brand/Brand";
+export { default as WhatIsGPT } from "./whatisgpt/WhatIsGPT";
+export { default as Future } from "./future/Future";
+export { default as Possibility } from "./possibility/Possibility";
+export { default as CTA } from "./cta/CTA";
+export { default as Blogs } from "./blogs/Blogs";
+export { default as Footer } from "./footer/Footer";
